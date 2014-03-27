@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /drugstore_8/
+Sitemap: http://www.drug-store-coupons.com/sitemap.xml 
